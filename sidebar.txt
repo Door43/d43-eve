@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eve:home|Door43 (eve)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eve|d43-eve repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eve/archive/master.zip|d43-eve.zip]]
+
+**Recent Changes**
+{{changes>ns = eve}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eve|Ethnologue data]]
+
